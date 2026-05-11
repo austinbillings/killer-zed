@@ -23,7 +23,9 @@ Activate via `cmd-k cmd-t` and pick **Killer Dark**.
 ## Related
 
 - [killer-vscode](https://github.com/austinbillings/killer-vscode)
-- [killer-syntax](https://github.com/austinbillings/killer-syntax)
+- [killer-syntax for atom](https://github.com/austinbillings/killer-syntax)
+- [killer-ui for atom](https://github.com/austinbillings/killer-ui)
+- [killer-nova](https://github.com/austinbillings/killer-nova)
 - [killer-firefox-theme](https://github.com/austinbillings/killer-firefox-theme)
 
 ## License
