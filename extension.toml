@@ -1,0 +1,7 @@
+id = "killer"
+name = "Killer"
+version = "0.1.0"
+schema_version = 1
+authors = ["Austin Billings <austin@billings.is>"]
+description = "Killer Dark — a high-contrast dark theme with a coral/teal palette."
+repository = "https://github.com/austinbillings/killer-zed"
