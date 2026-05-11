@@ -4,6 +4,8 @@ A high-contrast dark theme for [Zed](https://zed.dev), ported from the [Killer V
 
 Coral keywords, teal types, warm amber numbers. Designed for long sessions on a dark display.
 
+<img width="1964" height="1232" alt="590263145-fc20edc0-5758-45e3-be2b-cfb04d0de03e" src="https://github.com/user-attachments/assets/86e0d95a-3b1a-4da9-9e1d-efcdc4952d31" />
+
 ## Variants
 
 - **Killer Dark**
